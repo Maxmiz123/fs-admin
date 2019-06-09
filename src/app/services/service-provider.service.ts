@@ -12,16 +12,16 @@ export class ServiceProviderService {
 
     this.serviceProviders = [
       {
-        name: 'Joe',
-        lastName: 'Soap',
-        email: 'joe@mail.com',
-        cellPhone: 828073593,
+        name: 'Max',
+        lastName: 'Misrahi',
+        email: 'max@mail.com',
+        cellPhone: 99893404,
         numberOfListings: 5
       },
       {
-        name: 'John',
+        name: 'George',
         lastName: 'Doe',
-        email: 'john@mail.com',
+        email: 'george@mail.com',
         cellPhone: 828073545,
         numberOfListings: 15
       }

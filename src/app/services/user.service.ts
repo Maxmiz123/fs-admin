@@ -11,10 +11,10 @@ export class UserService {
   constructor() {
     this.users = [
       {
-        name: 'Byron',
-        lastName: 'de Villiers',
-        email: 'byron@mail.com',
-        cellPhone: 828073593
+        name: 'Max',
+        lastName: 'Misrahi',
+        email: 'Max@mail.com',
+        cellPhone: 98789712
       }
     ];
   }

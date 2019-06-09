@@ -4,9 +4,9 @@ import { ServiceProviderService } from '../../services/service-provider.service'
 
 
 @Component({
-  selector: 'app-service-providers',
-  templateUrl: './service-providers.component.html',
-  styleUrls: ['./service-providers.component.css']
+  selector: 'app-service-provider',
+  templateUrl: './service-provider.component.html',
+  styleUrls: ['./service-provider.component.scss']
 })
 export class ServiceProvidersComponent implements OnInit {
 
